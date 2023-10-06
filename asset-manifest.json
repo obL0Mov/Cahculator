@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cahculator/static/css/main.e6c13ad2.css",
+    "main.js": "/Cahculator/static/js/main.f3b45e4a.js",
+    "static/js/787.a174f9e5.chunk.js": "/Cahculator/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/Cahculator/index.html",
+    "main.e6c13ad2.css.map": "/Cahculator/static/css/main.e6c13ad2.css.map",
+    "main.f3b45e4a.js.map": "/Cahculator/static/js/main.f3b45e4a.js.map",
+    "787.a174f9e5.chunk.js.map": "/Cahculator/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f3b45e4a.js"
+  ]
+}
